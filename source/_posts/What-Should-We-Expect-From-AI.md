@@ -4,7 +4,7 @@ category: Technology
 date: 2018-01-11 14:38:13
 ---
 
-![Ai](http://localhost:4000/content/images/ai-photo-1.jpg)
+![Ai](https://affectionate-murdock-5bdeec.netlify.com/content/images/ai-photo-1.jpg)
 
 Fear mongering about killer robots and the latest deaths linked with Uber and Tesla autonomous vehicles have rekindled concerns about artificial intelligence found in the machines all around us. We are very well beyond answering Alan Turing's question, "can equipment think?" There is now justification to ask how specifically we should think about AI, and might know about expect from it.
 
